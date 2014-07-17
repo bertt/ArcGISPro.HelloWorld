@@ -6,12 +6,13 @@ Developed for ArcGIS Pro beta 4 - build
 
 ========
 Screenshot:
+========
 
 ![screenshot](/Images/screenshot.png)
 
 
-========
 Installation
+========
 
 To install without compiling:
 "C:\Program Files\ArcGIS Pro\bin\RegisterAddIn.exe" ArcGISPro.HelloWorld.esriAddInX
