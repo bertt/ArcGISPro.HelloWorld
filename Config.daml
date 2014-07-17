@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArcGIS defaultAssembly="ArcGISPro.HelloWorld.dll" defaultNamespace="ArcGISPro.HelloWorld" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS%20Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{BC7676B6-AC4F-4AAE-97C6-F0FF842D1C65}" version="1.0" desktopVersion="1.0.1078">
+    <Name>ArcGISProHelloWorld</Name>
+    <Description>ArcGIS Pro Hello World</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author></Author>
+    <Company>Yo</Company>
+    <Date>7/16/2014 1:53:48 PM, 2014</Date>
+  </AddInInfo><modules>
+    <insertModule id="HelloWorldModuleId" className="HelloWorldModule" autoLoad="false" caption="Module1">
+      <groups>
+        <group id="UCHelloWorldId" caption="HelloWorld" appearsOnAddInTab="true">
+          <button refID="btnHelloWorldId" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <button id="btnHelloWorldId" caption="Hello " className="HelloButton" loadOnClick="true" smallImage="Images\bex.jpg" largeImage="Images\bex.jpg" condition="esri_mapping_mapPane">
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>
