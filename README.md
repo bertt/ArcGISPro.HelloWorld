@@ -47,7 +47,7 @@ Properties of daml file : set  build action to 'AddInContent'
 Fill the XML file with a module, group and button (see sample)
 
 5] add references
-add reference to: C:\Program Files\ArcGIS Pro\bin\ArcGIS.Desktop.Framework.dll
+C:\Program Files\ArcGIS Pro\bin\ArcGIS.Desktop.Framework.dll
 
 Set 'copy local' property of this references to 'false'
 
