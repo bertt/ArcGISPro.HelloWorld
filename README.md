@@ -23,6 +23,9 @@ To uninstall:
 
 run in dos: "C:\Program Files\ArcGIS Pro\bin\RegisterAddIn.exe" {BC7676B6-AC4F-4AAE-97C6-F0FF842D1C65} /u
 
+Start ArcGIS Pro, create new project and add a map. The add-in should appear on the ribbon.
+
+
 Developer notes
 ========
 
