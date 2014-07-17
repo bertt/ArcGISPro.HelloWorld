@@ -35,7 +35,7 @@ Open Visual Studio project file in editor and add:
   <UsingTask AssemblyFile="C:\Program Files\ArcGIS Pro\bin\proapp-sdk-MSBuild.dll" TaskName="proapp_sdk_MSBuild.CleanAddIn" />
   <UsingTask AssemblyFile="C:\Program Files\ArcGIS Pro\bin\proapp-sdk-MSBuild.dll" TaskName="proapp_sdk_MSBuild.ConvertToRelativePath" />
   <Import Project="C:\Program Files\ArcGIS Pro\bin\Esri.ProApp.SDK.Desktop.targets" Condition="Exists('C:\Program Files\ArcGIS Pro\bin\Esri.ProApp.SDK.Desktop.targets')" />
-...
+```
 
 4] Add XML file named 'Config.daml'
 Note: the name must be 'Config.daml' not something else!
