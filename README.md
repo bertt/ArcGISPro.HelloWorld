@@ -4,6 +4,7 @@ ArcGISPro.HelloWorld
 Hello world add-in for ArcGIS Pro. Adds a (Bex!) button to the ArcGIS Pro interface.
 Developed for ArcGIS Pro beta 4 - build. There is no official ArcGIS Pro .NET SDK yet,
 but with these notes you can start developing. 
+For more samples see https://github.com/Esri/arcgis-pro-samples-beta4
 
 Screenshot
 ========
