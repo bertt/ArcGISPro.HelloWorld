@@ -6,6 +6,8 @@ Developed for ArcGIS Pro beta 4 - build. There is no official ArcGIS Pro .NET SD
 but with these notes you can start developing. 
 For more samples see https://github.com/Esri/arcgis-pro-samples-beta4
 
+![logo](https://raw.githubusercontent.com/Esri/arcgis-pro-samples-beta4/master/arcgis-pro-samples-beta4.png)
+
 Screenshot
 ========
 ![screenshot](/Images/screenshot.png)
