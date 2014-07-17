@@ -15,7 +15,7 @@ To install without compiling:
 
 Or double-click the file and open with C:\Program Files\ArcGIS Pro\bin\RegisterAddIn.exe
 
-To unistall:
+To uninstall:
 
 "C:\Program Files\ArcGIS Pro\bin\RegisterAddIn.exe" {BC7676B6-AC4F-4AAE-97C6-F0FF842D1C65} /u
 
