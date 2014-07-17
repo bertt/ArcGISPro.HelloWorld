@@ -1,6 +1,8 @@
 ArcGISPro.HelloWorld
 ====================
 
+Intro
+========
 Hello world add-in for ArcGIS Pro. Adds a button to the ArcGIS Pro interface.
 Developed for ArcGIS Pro beta 4 - build 
 
