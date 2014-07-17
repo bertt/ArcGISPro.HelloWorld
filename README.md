@@ -63,3 +63,5 @@ Set 'copy local' property of this reference to 'false'
 On compilation, a file 'ArcGISPro.HelloWorld.esriAddInX' is generated. This is basically a zip file
 with dll, images and xml file. It is registered as add-in 
 using the tool RegisterAddIn.exe and a copy is placed in C:\Users\(username)\Documents\ArcGIS\AddIns\ArcGISPro1.0
+
+The tab named 'Add-In Tab' seems to be a default tab, you can add custom tabs by editing the Config.daml file.
