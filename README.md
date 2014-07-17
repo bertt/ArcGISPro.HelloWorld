@@ -5,7 +5,7 @@ Hello world add-in for ArcGIS Pro. Adds a button to the ArcGIS Pro interface.
 Developed for ArcGIS Pro beta 4 - build 
 
 screenshot:
-!(images/screenshot.png)
+![screenshot](/images/screenshot.png)
 
 To install without compiling:
 "C:\Program Files\ArcGIS Pro\bin\RegisterAddIn.exe" ArcGISPro.HelloWorld.esriAddInX
