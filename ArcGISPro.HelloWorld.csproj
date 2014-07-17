@@ -53,7 +53,14 @@
     <AddInContent Include="Images\bex.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="releases\1.0\ArcGISPro.HelloWorld.esriAddInX" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\screenshot.png" />
+    <Content Include="README.html">
+      <DependentUpon>README.md</DependentUpon>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <UsingTask AssemblyFile="C:\Program Files\ArcGIS Pro\bin\proapp-sdk-MSBuild.dll" TaskName="proapp_sdk_MSBuild.PackageAddIn" />
