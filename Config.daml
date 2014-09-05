@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArcGIS defaultAssembly="ArcGISPro.HelloWorld.dll" defaultNamespace="ArcGISPro.HelloWorld" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS%20Pro/bin/ArcGIS.Desktop.Framework.xsd">
-  <AddInInfo id="{BC7676B6-AC4F-4AAE-97C6-F0FF842D1C65}" version="1.0" desktopVersion="1.0.1078">
+  <AddInInfo id="{BC7676B6-AC4F-4AAE-97C6-F0FF842D1C66}" version="1.0" desktopVersion="1.0.1078">
     <Name>ArcGISProHelloWorld</Name>
     <Description>ArcGIS Pro Hello World</Description>
     <Image>Images\AddinDesktop32.png</Image>
@@ -15,7 +15,7 @@
         </group>
       </groups>
       <controls>
-        <button id="btnHelloWorldId" caption="Hello " className="HelloButton" loadOnClick="true" smallImage="Images\bex.jpg" largeImage="Images\bex.jpg" condition="esri_mapping_mapPane">
+        <button id="btnHelloWorldId" caption="Hello " className="HelloButton" loadOnClick="true" smallImage="Images\bex.png" largeImage="Images\bex.png" condition="esri_mapping_mapPane">
         </button>
       </controls>
     </insertModule>
